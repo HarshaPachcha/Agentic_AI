@@ -1,5 +1,5 @@
 # Agentic_AI
-# 🤖 Gemini Multi-Agent Research & Writing System
+# Multi-Agent Research & Writing System
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Google AI](https://img.shields.io/badge/API-Gemini_1.5-green)
